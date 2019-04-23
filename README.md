@@ -11,9 +11,11 @@ Voting App
 4. As a logged in user, I want to see the candidates so I can choose who to vote for.
 5. As a person who doesn't know the candidates, I should get some more information about each candidate
 6. As a voting person, I wont to have a radio button/stamp to vote the candidate I chose.
-7. As a person who made the choise, I want to get a confirmation message with what I voted, and if I am sure that this is the candidature I voted for.
+7. As a person not familiar with the online voting, I want to see "Vote" stamp once I hower to the radio button.
+8. As a person who chose the candidate, I want to have a next/confirm button to confirm my choise.
+9. As a person who made the choise, I want to get a confirmation message with what I voted, and if I am sure that this is the candidature I voted for.
 
 *Last screen - Results*
 
-8. As a person who voted, I want to know when the ellections will finish and the results will be available.
-9. As a person who voted, I want to see the statistics of votes for each candidate.
+10. As a person who voted, I want to know when the ellections will finish and the results will be available.
+11. As a person who voted, I want to see the statistics of votes for each candidate.
