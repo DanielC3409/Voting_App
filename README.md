@@ -1,6 +1,7 @@
 Voting App
 
 *First screen - Splash Screen*
+
 0. As first time user, I want to get a splash screen telling me what is this app and what is supposed to do
 
  *Second Screen - Login - Check if Metadata is connected*
